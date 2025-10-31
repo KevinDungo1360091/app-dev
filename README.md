@@ -1,4 +1,3 @@
 # app-dev
-JoJo Bizzare Adventure
-**bold text**
-*italicized text*
+**JoJo Bizzare Adventure**
+
